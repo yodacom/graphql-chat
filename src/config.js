@@ -1,12 +1,11 @@
 export const {
-  APP_PORT = 3000,
-  NODE_ENV = 'development',
-
-  DB_USERNAME = 'admin',
-  DB_PASSWORD = 'secret',
-  DB_HOST = 'localhost',
-  DB_PORT = 27017,
-  DB_NAME = 'chat',
+APP_PORT=4000,
+NODE_ENV='development',
+DB_USERNAME='yodacomdb1',
+DB_PASSWORD='ChatData1975',
+DB_HOST='ds343895.mlab.com',
+DB_PORT=43895,
+DB_NAME='graphchat',
 
   SESS_NAME = 'sid',
   SESS_SECRET = 'ssh!secret!',
